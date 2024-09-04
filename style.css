@@ -1,0 +1,14 @@
+body {
+  background-color: aqua;
+}
+
+h2 {
+  text-align: center;
+  padding-bottom: 30px;
+  background-color: yellow;
+  border-radius: 20px;
+  padding: 45px;
+  width: 65%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
